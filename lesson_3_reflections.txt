@@ -4,3 +4,7 @@ When you are collaborating with other contributors.  When you need to have a bac
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Doing it manually gives you control on when and which changes to pull.  What's in the remote (latest) might not be best for you or what you need at the moment.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+You use forks when you want to clone a repository in Githum. Clones are done when you want a local copy of a remote repository or another copy of a local repository to another location in your computer.  Branches are a deviation from master.
