@@ -19,3 +19,7 @@ touching the main line.
 How do the diagrams help you visualize the branch structure?
 
 The diagrams shows the progression of the commits and branches also their  parents.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging combines the changes done to the file from the two or more branches.  We represent it in the diagram that way to show that the merged commit has two parents.
