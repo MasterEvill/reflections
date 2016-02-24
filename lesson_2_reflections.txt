@@ -23,3 +23,7 @@ The diagrams shows the progression of the commits and branches also their  paren
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging combines the changes done to the file from the two or more branches.  We represent it in the diagram that way to show that the merged commit has two parents.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Automatic merging is fast and let's you focus on just the conflicts.
