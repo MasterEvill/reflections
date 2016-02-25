@@ -8,3 +8,6 @@ Doing it manually gives you control on when and which changes to pull.  What's i
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 You use forks when you want to clone a repository in Githum. Clones are done when you want a local copy of a remote repository or another copy of a local repository to another location in your computer.  Branches are a deviation from master.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Having a copy of the last know state of the remote stored locally enable me to know how behind or ahead my local repository is.
