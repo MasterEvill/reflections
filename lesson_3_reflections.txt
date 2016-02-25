@@ -11,3 +11,6 @@ You use forks when you want to clone a repository in Githum. Clones are done whe
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Having a copy of the last know state of the remote stored locally enable me to know how behind or ahead my local repository is.
+
+How would you collaborate without using Git or GitHum? What would be easier, and what would be harder?
+Without Git or GitHub collaborating with others would utilize emailing copies of code and having regular meetups to merge changes in the code specially when there are conflicts.  Using git creates a standardized methodology on collaborating.  It is well documented and there are lots of resources where you can get answers when you have any usage issues.
